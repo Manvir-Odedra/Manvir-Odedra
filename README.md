@@ -5,6 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=Manvir-Odedra&label=Profile%20views&color=0e75b6&style=flat" alt="Manvir-Odedra" />
 </p>
 
+### 💡 About Me
+
+- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🌱 Learning: **Django | REST API | PostgreSQL**
+- 💬 Ask me about **Python, Django, REST APIs**
+- 📫 Reach me at: **manvirodedara@gmail.com**
+- ⚡ Fun Fact: *I love automating boring stuff!*
+
 ### 🛠️ Languages & Tools
 
 <p>
