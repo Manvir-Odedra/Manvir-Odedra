@@ -7,35 +7,37 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      
-      ### 💡 About Me
+    <td width="50%" valign="top">
 
-      - 🔭 I’m currently working on **Full Stack Web Projects**
-      - 🌱 Learning: **Django | REST API | PostgreSQL**
-      - 💬 Ask me about **Python, Django, REST APIs**
-      - 📫 Reach me at: **manvirodedara@gmail.com**
-      - ⚡ Fun Fact: *I love automating boring stuff!*
+      <h3>💡 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Full Stack Web Projects</strong></li>
+        <li>🌱 Learning: <strong>Django | REST API | PostgreSQL</strong></li>
+        <li>💬 Ask me about <strong>Python, Django, REST APIs</strong></li>
+        <li>📫 Reach me at: <strong>manvirodedara@gmail.com</strong></li>
+        <li>⚡ Fun Fact: I love automating boring stuff!</li>
+      </ul>
 
     </td>
-    <td valign="top" width="50%">
-      
-      ### 🌐 Connect with Me
+    <td width="50%" valign="top">
 
+      <h3>🌐 Connect with Me</h3>
       <p>
         <a href="https://linkedin.com/in/manvirodedra" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
         </a>
         <a href="https://instagram.com/manvir.codes" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
         </a>
         <a href="https://youtube.com/@manvirodedra" target="_blank">
-          <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Manvir-Odedra" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
 
-      ### 🛠️ Languages & Tools
-
+      <h3>🛠️ Languages & Tools</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
