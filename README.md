@@ -78,25 +78,24 @@ Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir
 <table>
   <tr>
     <td width="50%" valign="top">
-
-      ### 👤 About Me
-      - 🌱 Learning Django, PostgreSQL, APIs  
-      - 🛠 Building fun projects  
-      - 📫 manvirodedara@gmail.com  
-
+      <h3>👤 About Me</h3>
+      <ul>
+        <li>🌱 Learning Django, PostgreSQL, APIs</li>
+        <li>🛠 Building backend apps</li>
+        <li>📫 manvirodedara@gmail.com</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
+      <h3>🌐 Connect with Me</h3>
+      <p>
+        <a href="https://linkedin.com/in/manvirodedra">LinkedIn</a><br/>
+        <a href="https://instagram.com/manvir.codes">Instagram</a><br/>
+        <a href="https://youtube.com/@manvirodedra">YouTube</a><br/>
+        <a href="https://github.com/Manvir-Odedra">GitHub</a>
+      </p>
 
-      ### 🌐 Connect With Me  
-      [LinkedIn](https://linkedin.com/in/manvirodedra) • 
-      [Instagram](https://instagram.com/manvir.codes) •  
-      [YouTube](https://youtube.com/@manvirodedra) • 
-      [GitHub](https://github.com/Manvir-Odedra)
-
-      ### 🛠 Languages & Tools  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-    </td>
+     
   </tr>
 </table>
+
+
