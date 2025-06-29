@@ -77,7 +77,7 @@ Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>👤 About Me</h3>
       <ul>
         <li>🌱 Learning Django, PostgreSQL, APIs</li>
@@ -85,7 +85,7 @@ Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir
         <li>📫 manvirodedara@gmail.com</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🌐 Connect with Me</h3>
       <p>
         <a href="https://linkedin.com/in/manvirodedra">LinkedIn</a><br/>
