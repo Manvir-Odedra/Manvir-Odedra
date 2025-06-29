@@ -41,47 +41,6 @@
 
 ---
 
-### 💡 About Me
-
-- 🔭 I’m currently working on **Full Stack Web Projects**
-- 🌱 Learning: **Django | REST API | PostgreSQL**
-- 💬 Ask me about **Python, Django, REST APIs**
-- 📫 Reach me at: **manvirodedara@gmail.com**
-- ⚡ Fun Fact: *I love automating boring stuff!*
-
----
-
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/manvirodedra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/manvir.codes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@manvirodedra" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
