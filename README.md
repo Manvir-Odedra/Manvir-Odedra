@@ -11,16 +11,16 @@ Manvir-Odedra/Manvir-Odedra is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm BEERE VAMSI</h1>
+<h1 align="center">Hi 👋, I'm Manvir Odedra</h1>
 <h3 align="center">"Exploring code,crafting solutions,sharing knowledge"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi129325&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi129325" /> </p>
 
-- 🌱 I’m currently learning **Java,Python etc.**
+- 🌱 I’m currently learning **Django, Postgresql, API.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VAMSI129325](https://github.com/VAMSI129325)
+- 👨‍💻 All of my projects are available at [https://github.com/Manvir-Odedra](https://github.com/Manvir-Odedra)
 
-- 📫 How to reach me **beerevamsi0@gmail.com**
+- 📫 How to reach me **manvirodedara@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
