@@ -75,27 +75,5 @@ Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir
 
 ---
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>👤 About Me</h3>
-      <ul>
-        <li>🌱 Learning Django, PostgreSQL, APIs</li>
-        <li>🛠 Building backend apps</li>
-        <li>📫 manvirodedara@gmail.com</li>
-      </ul>
-    </td>
-    <td width="100%" valign="top">
-      <h3>🌐 Connect with Me</h3>
-      <p>
-        <a href="https://linkedin.com/in/manvirodedra">LinkedIn</a><br/>
-        <a href="https://instagram.com/manvir.codes">Instagram</a><br/>
-        <a href="https://youtube.com/@manvirodedra">YouTube</a><br/>
-        <a href="https://github.com/Manvir-Odedra">GitHub</a>
-      </p>
-
-     
-  </tr>
-</table>
 
 
