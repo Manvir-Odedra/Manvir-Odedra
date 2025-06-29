@@ -5,46 +5,51 @@
   <img src="https://komarev.com/ghpvc/?username=Manvir-Odedra&label=Profile%20views&color=0e75b6&style=flat" alt="Manvir-Odedra" />
 </p>
 
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+      ### 💡 About Me
 
-### 💡 About Me
+      - 🔭 I’m currently working on **Full Stack Web Projects**
+      - 🌱 Learning: **Django | REST API | PostgreSQL**
+      - 💬 Ask me about **Python, Django, REST APIs**
+      - 📫 Reach me at: **manvirodedara@gmail.com**
+      - ⚡ Fun Fact: *I love automating boring stuff!*
 
-- 🔭 I’m currently working on **Full Stack Web Projects**
-- 🌱 Learning: **Django | REST API | PostgreSQL**
-- 💬 Ask me about **Python, Django, REST APIs**
-- 📫 Reach me at: **manvirodedara@gmail.com**
-- ⚡ Fun Fact: *I love automating boring stuff!*
+    </td>
+    <td valign="top" width="50%">
+      
+      ### 🌐 Connect with Me
 
----
+      <p>
+        <a href="https://linkedin.com/in/manvirodedra" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="https://instagram.com/manvir.codes" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+        <a href="https://youtube.com/@manvirodedra" target="_blank">
+          <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+      </p>
 
-### 🌐 Connect with Me
+      ### 🛠️ Languages & Tools
 
-<p>
-  <a href="https://linkedin.com/in/manvirodedra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/manvir.codes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@manvirodedra" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+      </p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,8 +71,6 @@
 Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir-Odedra)
 
 ---
-
-### 🙌 Thanks for visiting!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Build+Together!+🚀" />
