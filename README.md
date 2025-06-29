@@ -45,12 +45,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manvir-Odedra&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Manvir-Odedra&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvir-Odedra&layout=compact&theme=radical" width="48%" />
   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvir-Odedra&layout=compact&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Manvir-Odedra&theme=radical&hide_border=false" />
+  
 </p>
 
 ---
