@@ -73,3 +73,30 @@ Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Build+Together!+🚀" />
 </p>
 
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+      ### 👤 About Me
+      - 🌱 Learning Django, PostgreSQL, APIs  
+      - 🛠 Building fun projects  
+      - 📫 manvirodedara@gmail.com  
+
+    </td>
+    <td width="50%" valign="top">
+
+      ### 🌐 Connect With Me  
+      [LinkedIn](https://linkedin.com/in/manvirodedra) • 
+      [Instagram](https://instagram.com/manvir.codes) •  
+      [YouTube](https://youtube.com/@manvirodedra) • 
+      [GitHub](https://github.com/Manvir-Odedra)
+
+      ### 🛠 Languages & Tools  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+    </td>
+  </tr>
+</table>
