@@ -8,7 +8,8 @@
 ### 👤 About Me & 🌐 Connect With Me
 
 <p align="center">
-  <img align="left" width="48%" alt="About Me" src="https://github-readme-activity-graph.cyclic.app/graph?username=Manvir-Odedra&theme=radical&hide_border=true&area=true" />
+  <img align="left" width="100%" alt="About Me Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Manvir-Odedra&theme=radical" />
+
 
   <div align="right" width="48%">
 
