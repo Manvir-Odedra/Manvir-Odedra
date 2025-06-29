@@ -53,11 +53,6 @@
 </p>
 
 ---
-### 🚀 My Projects
-
-Check out my work here 👉 [github.com/Manvir-Odedra](https://github.com/Manvir-Odedra)
-
----
 ### 🙌 Thanks for visiting!
 
 <p align="center">
