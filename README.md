@@ -5,55 +5,47 @@
   <img src="https://komarev.com/ghpvc/?username=Manvir-Odedra&label=Profile%20views&color=0e75b6&style=flat" alt="Manvir-Odedra" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 👤 About Me & 🌐 Connect With Me
 
-      <h3>💡 About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on <strong>Full Stack Web Projects</strong></li>
-        <li>🌱 Learning: <strong>Django | REST API | PostgreSQL</strong></li>
-        <li>💬 Ask me about <strong>Python, Django, REST APIs</strong></li>
-        <li>📫 Reach me at: <strong>manvirodedara@gmail.com</strong></li>
-        <li>⚡ Fun Fact: I love automating boring stuff!</li>
-      </ul>
+<p align="center">
+  <img align="left" width="48%" alt="About Me" src="https://github-readme-activity-graph.cyclic.app/graph?username=Manvir-Odedra&theme=radical&hide_border=true&area=true" />
 
-    </td>
-    <td width="50%" valign="top">
+  <div align="right" width="48%">
 
-      <h3>🌐 Connect with Me</h3>
-      <p>
-        <a href="https://linkedin.com/in/manvirodedra" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="https://instagram.com/manvir.codes" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-        </a>
-        <a href="https://youtube.com/@manvirodedra" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Manvir-Odedra" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
+  <h4>📧 Email</h4>
+  <p><code>manvirodedara@gmail.com</code></p>
 
-      <h3>🛠️ Languages & Tools</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
-      </p>
+  <h4>🌍 Connect with me:</h4>
+  <p>
+    <a href="https://linkedin.com/in/manvirodedra" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/manvir.codes" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://youtube.com/@manvirodedra" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Manvir-Odedra" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+  </p>
 
-    </td>
-  </tr>
-</table>
+  <h4>🛠️ Languages & Tools</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
+  </p>
 
----
+  </div>
+</p>
+
 
 ### 📊 GitHub Stats
 
